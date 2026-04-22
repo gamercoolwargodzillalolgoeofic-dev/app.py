@@ -1,0 +1,3 @@
+IA-juego/
+ ├── index.html
+ └── juego.js
